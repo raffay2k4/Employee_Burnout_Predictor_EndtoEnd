@@ -6,7 +6,6 @@ This repository contains the code for building an Employee Burnout Prediction mo
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
 - [Running the Project](#running-the-project)
-- [Next Steps](#next-steps)
 
 ## Project Overview
 The **Employee Burnout Predictor** project aims to predict burnout levels in employees based on provided features. The workflow includes data preprocessing, model training, API creation, and a user-friendly interface to allow real-time predictions.
