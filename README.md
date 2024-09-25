@@ -1,6 +1,5 @@
 # End-to-End Employee Burnout Predictor
 
-## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
 - [Running the Project](#running-the-project)
