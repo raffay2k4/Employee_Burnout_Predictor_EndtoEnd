@@ -1,7 +1,5 @@
 # End-to-End Employee Burnout Predictor
 
-This repository contains the code for building an Employee Burnout Prediction model using Scikit-learn for machine learning, FastAPI for API creation, and Gradio for the user interface.
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
