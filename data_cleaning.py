@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # Loading Data
 
-df=pd.read_csv("Data\\train.csv")
+df=pd.read_csv("Data\\Employee_Burnout_Train.csv")
 
 # Exploring Data
 
